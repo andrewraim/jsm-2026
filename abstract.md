@@ -1,6 +1,6 @@
 # Abstract for Census Bureau for 2026
 
-Title: Modeling Counts of Responses over Spans of Time in a Census Operation
+Title: Modeling Counts of Responses over Time Spans in a Census Operation
 
 A major component of survey and census operations is the elicitation of
 responses from a population of interest. Modes of contact can involve mailings,
