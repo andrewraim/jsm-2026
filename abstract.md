@@ -21,8 +21,8 @@ include expressing a region's exposure to MQA using proximity in space and
 time, and considering whether there is a significant association between this
 exposure and response rate in the data.
 
-Coauthors?
-Keywords?
+Coauthors: Brian Roberts (U.S. Census Bureau)
+Keywords: ?
 
 # Abstract to JSM for 2025 
 
